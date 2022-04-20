@@ -1,0 +1,5 @@
+2018: personas, hogares, gastos, equipamiento, habitos
+2012: personas, hogares, gastos, equipamiento, ingresos, gtnfp
+2005: personas, hogares, gastos, equipamiento, ingresos, gtnfp
+1997: personas, hogares, gastos, equipamiento, ingresos, gtnfp, cantidades
+1986: personas, hogares, gastos, articulo, capitulo, grupo, cantidades
